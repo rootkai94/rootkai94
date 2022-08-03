@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kailash Sivaraman
-- 👀 I’m interested in cybersecurity, Cloud Computing, working with Python.
-- 🌱 I’m currently working on Cybersecurity Vulnerability Assesment and Pentesting, AWS Cloud Architecting and solution implementation.
+- 👀 I’m interested in cybersecurity, Cloud Computing and working with Python.
+- 🌱 I’m currently working on Cybersecurity Vulnerability Assesment/Pentesting, AWS Cloud Architecting and solution implementation.
 - 📫 You can reach me at kailash1294@outlook.com
 
 <!---
